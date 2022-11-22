@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1635449221 source:c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\nodo.cpp
+	"Nodo.h"
+
+1635448856 c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\nodo.h
+
+1636586195 source:c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\arbol.cpp
+	"Arbol.h"
+	"Nodo.h"
+	<iostream>
+
+1638294082 c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\arbol.h
+	"Nodo.h"
+
+1635994493 source:c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\main.cpp
+	<iostream>
+	"Nodo.h"
+	"Arbol.h"
+
+1638938136 source:c:\users\misa_\onedrive\escritorio\estructura1\abb\c\arbol.cpp
+	"Arbol.h"
+	"Nodo.h"
+	<iostream>
+
+1638898715 c:\users\misa_\onedrive\escritorio\estructura1\abb\c\arbol.h
+	"Nodo.h"
+
+1638940629 c:\users\misa_\onedrive\escritorio\estructura1\abb\c\nodo.h
+
+1638898745 source:c:\users\misa_\onedrive\escritorio\estructura1\abb\c\main.cpp
+	<iostream>
+	"Nodo.h"
+	"Arbol.h"
+
+1638934930 source:c:\users\misa_\onedrive\escritorio\estructura1\abb\c\nodo.cpp
+	"Nodo.h"
+
+1638938138 source:c:\users\misa_\onedrive\escritorio\subir a github\avl\c\arbol.cpp
+	"Arbol.h"
+	"Nodo.h"
+	<iostream>
+
+1638898716 c:\users\misa_\onedrive\escritorio\subir a github\avl\c\arbol.h
+	"Nodo.h"
+
+1638940630 c:\users\misa_\onedrive\escritorio\subir a github\avl\c\nodo.h
+
+1638898746 source:c:\users\misa_\onedrive\escritorio\subir a github\avl\c\main.cpp
+	<iostream>
+	"Nodo.h"
+	"Arbol.h"
+
+1638934932 source:c:\users\misa_\onedrive\escritorio\subir a github\avl\c\nodo.cpp
+	"Nodo.h"
+
